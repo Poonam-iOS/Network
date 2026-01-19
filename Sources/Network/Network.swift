@@ -12,7 +12,7 @@ public class Network {
         session = URLSession.shared
     }
     
-    func fetchData() {
+    public func fetchData() {
         
     }
     
